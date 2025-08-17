@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> This repository also hosts **course materials and session summaries** for the Amazon ML Summer School 2025.  
+> Students are encouraged to **read, learn, and practice** the provided material.  
+> At the bottom of each module summary, you will find **practice tasks and code exercises**.  
+> Make sure to complete them in Jupyter Notebook to strengthen your understanding.  
+> Full curriculum and module-wise content is available below.
+
+---
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/28775f07-c4e8-408a-939f-7010ebfc56e4" alt="Amazon ML Summer School Banner" width="500"/>
 </div>
@@ -47,9 +56,23 @@ The selection test consists of two parts:
 
 ## Contents of This Repository
 
-- 📄 **[Programming Questions](Programming.md)**: Practice questions similar to those in the selection test
-- 📄 **[Summer School 2023 Questions](SummerSchool2023.md)**: Previous year questions (PYQs) for reference and practice
-- 📃[⭐NEW] **[Official Sample Test 2025](Amazon_ML_Summer_School_Sample_Test.pdf)**: Sample test provided by Scaler. **[Solved]**
+- 📄 **[Programming Questions](Programming.md)**: Practice questions similar to those in the selection test  
+- 📄 **[Summer School 2023 Questions](SummerSchool2023.md)**: Previous year questions (PYQs) for reference and practice  
+- 📃 [⭐NEW] **[Official Sample Test 2025](Amazon_ML_Summer_School_Sample_Test.pdf)**: Sample test provided by Scaler. **[Solved]**  
+
+## Curriculum – AMSS 2025
+
+### Completed Modules
+- **Aug 9th 2025** – [Module 1: Supervised Learning](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE1.md)  
+- **Aug 10th 2025** – [Module 2: Deep Neural Networks](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE2.md)  
+- **Aug 16th 2025** – [Module 3: Dimensionality Reduction](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE3.md)  
+- **Aug 17th 2025** – [Module 4: Unsupervised Learning](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/AMSS%202025/MODULE4.md)  
+
+### Upcoming Modules
+- **Aug 23rd 2025** – Module 5: Probabilistic Graphical Models *(Yet to be updated)*  
+- **Aug 24th 2025** – Module 6: Sequential Learning *(Yet to be updated)*  
+- **Aug 30th 2025** – Module 7: Causal Inference *(Yet to be updated)*  
+- **Aug 31st 2025** – Module 8: Reinforcement Learning *(Yet to be updated)*  
 
 <p align="center">
   <a href="https://github.com/cu-sanjay/Amazon-ML-Summer-School-2024">
