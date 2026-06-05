@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/28775f07-c4e8-408a-939f-7010ebfc56e4" alt="Amazon ML Summer School Banner" width="700"/>
+  <img src="https://github.com/user-attachments/assets/553bba2c-e5b1-4da9-9490-3b657c6e64f8" alt="Amazon ML Summer School Registration" width="700"/>
 </div>
 
 <div align="center">
 
-# Amazon ML Summer School 2025
+# Amazon ML Summer School 2026
 
-### An exciting opportunity for students graduating in 2026 or 2027 to learn Machine Learning directly from Amazon Scientists, connect with industry experts, and unlock internship and interview opportunities.
+### An exciting opportunity for students graduating in 2027 or 2028 to learn Machine Learning directly from Amazon Scientists, connect with industry experts, and unlock internship and interview opportunities.
 
 </div>
 
@@ -15,8 +15,8 @@
 <table>
 <tr>
 <td align="center">
-<a href="https://www.scaler.com/partnerships/amazon">
-  <img src="https://assets-v2.scaler.com/assets/scaler/svg/scaler-logo-27a9b9093de1d977bad45ed9dff8addbd1bb0f14bb4f34399bdcf7a2b71a4e2a.svg" alt="Scaler Logo" width="170"/>
+<a href="https://unstop.com/">
+  <img src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg" alt="Unstop Logo" width="170"/>
 </a>
 </td>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### Powered by Scaler × Amazon
+### Powered by Unstop × Amazon
 
 </div>
 
@@ -51,7 +51,7 @@
 The Amazon ML Summer School offers students a unique opportunity to learn Machine Learning from Amazon’s expert Scientists and industry leaders.  
 This comprehensive program covers essential ML concepts while providing insights into real-world applications used in modern AI systems.
 
-Designed for students graduating in **2026 or 2027** from any recognized institute in India.
+Designed for students graduating in **2027 or 2028** from any recognized institute in India.
 
 ### Key Highlights
 
@@ -64,9 +64,10 @@ Designed for students graduating in **2026 or 2027** from any recognized institu
 
 ### Official Links
 
-- **Previous Year Program**: [Amazon ML Summer School 2024](https://amazonmlsummerschoolindia.splashthat.com/)  
-- **Official Program Details**: [Amazon ML Summer School 2025](https://www.scaler.com/partnerships/amazon)  
-- **Application Form**: [Apply Here](https://docs.google.com/forms/d/e/1FAIpQLSfjLzjW3Mq9cnP4kCaAxE8kMLMjjX4m5vmOd_4ghnE1MCIDuw/viewform)
+- **Previous Year Program 2024**: [Amazon ML Summer School 2024](https://amazonmlsummerschoolindia.splashthat.com/)
+- **Previous Year Program 2025**: [Amazon ML Summer School 2025](https://www.scaler.com/partnerships/amazon)
+- **Official Program Details**: [Amazon ML Summer School 2026](https://lnk.ink/MLSS2026)  
+- **Application Form**: [Apply Here](https://unstop.com/hackathons/crp-amazon-ml-summer-school-2026-amazon-1688859?lb=NvCO4PA&utm_medium=Share&utm_source=online_coding_challenge&utm_campaign=Sanjaychoudhary)
 
 ## Selection Test Format
 
@@ -79,14 +80,14 @@ The selection test consists of two sections:
 > Both sections have separate cutoffs, so perform your best in each section.  
 > Amazon strictly checks for plagiarism in coding submissions. Avoid sharing code or using unfair means during the assessment.
 
-🕒 **Total Duration:** 75 Minutes
+🕒 **Total Duration:** 60 Minutes
 
 # Contents of This Repository
 
 - 📄 **[Programming Questions](Programming.md)** — Practice questions similar to the actual selection test  
 - 📄 **[Summer School 2023 Questions](SummerSchool2023.md)** — Previous year memory-based questions for revision  
 - 📃 **[Official Sample Test 2025](Amazon_ML_Summer_School_Sample_Test.pdf)** — Official sample assessment shared by Scaler *(Solved)*  
-- 📘 **[Amazon ML Summer School Assessment 2025](Amazon%20ML%20Summer%20School%20Assessment%202025.pdf)** — Real memory-based assessment questions collected from participants  
+- 📘 **[Amazon ML Summer School Assessment 2025](AMSS_2025_Exam_Questions.pdf)** — Real memory-based assessment questions collected from participants  
 - 📚 **[More ML Resources](https://github.com/cu-sanjay/Amazon-ML-Summer-School-2025/blob/main/More%20ML%20Resources/README.md)** — Additional ML resources, roadmaps, notes, and learning material
 
 # Curriculum – AMSS 2025
@@ -122,7 +123,7 @@ The selection test consists of two sections:
 
 <p align="center">
   <!-- Learn More -->
-  <a href="https://www.scaler.com/partnerships/amazon">
+  <a href="https://unstop.com/hackathons/crp-amazon-ml-summer-school-2026-amazon-1688859">
     <img 
       src="https://img.shields.io/badge/Learn%20More%20about%20AMSS-4285F4?style=plastic&logo=googlechrome&logoColor=white&labelColor=DB4437&color=0F9D58" 
       alt="Learn More" 
@@ -132,7 +133,7 @@ The selection test consists of two sections:
 
 <p align="center">
   <!-- Assessment PDF -->
-  <a href="Amazon%20ML%20Summer%20School%20Assessment%202025.pdf">
+  <a href="AMSS_2025_Exam_Questions.pdf">
     <img 
       src="https://img.shields.io/badge/Assessment%20Questions%202025-PDF-red?style=plastic&logo=adobeacrobatreader&logoColor=white" 
       alt="Assessment PDF" 
@@ -141,11 +142,11 @@ The selection test consists of two sections:
 </p>
 
 <p align="center">
-  <!-- Apply Now Closed -->
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjLzjW3Mq9cnP4kCaAxE8kMLMjjX4m5vmOd_4ghnE1MCIDuw/viewform">
+  <!-- Apply Now -->
+  <a href="https://unstop.com/hackathons/crp-amazon-ml-summer-school-2026-amazon-1688859?lb=NvCO4PA&utm_medium=Share&utm_source=online_coding_challenge&utm_campaign=Sanjaychoudhary">
     <img 
-      src="https://img.shields.io/badge/Apply%20Now%20(CLOSED)-808080?style=plastic&logo=lock&logoColor=white" 
-      alt="Apply Now Closed" 
+      src="https://img.shields.io/badge/Apply%20Now%20(2026)-808080?style=plastic&logo=lock&logoColor=white" 
+      alt="Apply Now" 
       style="width: 300px; height: auto; margin: 8px 0;" />
   </a>
 </p>
